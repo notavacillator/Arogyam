@@ -72,7 +72,7 @@
         backdrop-filter: blur(8px);
         background-color: rgba(255, 255, 255, 0.9); 
         border-radius: 15px; 
-        box-shadow: 20px 20px 30px 0px #ed254dc4, inset -8px -8px 16px 0px #ed254db0, inset 0px 11px 28px 0px rgb(255, 255, 255);
+        box-shadow: 20px 20px 30px 0px #1146e573, inset -8px -8px 16px 0px #80a0ffb9, inset 0px 11px 28px 0px rgb(255, 255, 255);
     }
   }
 

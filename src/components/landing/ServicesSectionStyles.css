@@ -1,0 +1,32 @@
+.services-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .service-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .service-text {
+    width: 50%;
+    padding: 20px;
+  }
+  
+  .service-image {
+    width: 50%;
+  }
+  
+  /* Style for even and odd items */
+  .service-item.even {
+    flex-direction: row-reverse;
+  }
+  
+  .service-item.odd {
+    flex-direction: row;
+  }
+  
+  /* Add more styling as needed */
+  
